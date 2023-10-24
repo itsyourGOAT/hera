@@ -1,2 +1,3 @@
 # hera
-in class activity
+this is project **hera**
+
